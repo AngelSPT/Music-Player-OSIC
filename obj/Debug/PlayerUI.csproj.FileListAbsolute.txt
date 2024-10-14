@@ -1,0 +1,104 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\User\Desktop\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\User\Desktop\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\User\Desktop\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\User\Desktop\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\MACTrackBarLib.dll
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\NAudio.dll
+C:\Users\Samuel\Desktop\pruebas\PlayerUI-2\PlayerUI\bin\Debug\NAudio.xml
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\MACTrackBarLib.dll
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\NAudio.dll
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\NAudio.xml
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\User\Desktop\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.exe
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\MACTrackBarLib.dll
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\NAudio.dll
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\NAudio.xml
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\Interop.WMPLib.dll
+D:\PlayerUI V0.3\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\Interop.WMPLib.dll
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.exe
+D:\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\MACTrackBarLib.dll
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\NAudio.dll
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\NAudio.xml
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.ResolveComReference.cache
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.csproj.CopyComplete
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\angel\Desktop\PROGRAMACION (PROYECTOS)\PROYECTOS (C#)\OSIC (REPRODUCTOR DE MUSICA)\PlayerUI V0.3\PlayerUI\obj\Debug\PlayerUI.pdb
